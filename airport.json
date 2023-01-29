@@ -1,14 +1,17 @@
 {
- airport = [
-  {
-    "name":"Kraków",
-    "code": "KRK"
-  },
-  {
-    "name":"Wrocław",
-    "code": "WRO"
-  },
-  {
-    "name":"Warszawa"",
-    "code": "WAW"
-  } ] }
+ "airport" : 
+ [
+   {
+     "name":"Kraków",
+     "code": "KRK"
+   },
+   {
+     "name":"Wrocław",
+     "code": "WRO"
+   },
+   {
+     "name":"Warszawa"",
+     "code": "WAW"
+   } 
+ ] 
+}
