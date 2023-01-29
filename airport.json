@@ -1,3 +1,14 @@
 {
-"foo":"bar"
-}
+ airport = [
+  {
+    "name":"Kraków",
+    "code": "KRK"
+  },
+  {
+    "name":"Wrocław",
+    "code": "WRO"
+  },
+  {
+    "name":"Warszawa"",
+    "code": "WAW"
+  } ] }
